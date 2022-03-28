@@ -49,11 +49,6 @@ margin:0;
 }
 
 li {
-  list-style :none;
-}
-
-#content li .content_box{
-
 border:1px solid #000;
 list-style:none;
 height:320px;
@@ -73,7 +68,7 @@ a.nav-link {
 
 
 @media screen and (max-width: 500px) {
-        #content li .content_box{
+        .content_box{
           height: auto;
         }
 
@@ -82,4 +77,4 @@ a.nav-link {
         }
       }
 
-}
+
