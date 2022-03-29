@@ -2,6 +2,8 @@
 title: "国/税務署は、ほんと許せません"
 date: 2021-10-23T09:37:26+09:00
 archives : ["2021/10"]
+tags: ["tag2"]
+categories: ["qajf"]
 
 ---
 

@@ -11,7 +11,7 @@
     {{ range $pages }}
     <div class="月別のタイトル (例)2022/01">
       {{ $anchor := anchorize .Title }}
-      <a name="{{ $anchor }}" href="#{{ $anchor }}">#アンカーリンク</a>
+      <a name="{{ $anchor }}" href="#{{ $anchor }}">#ンカーリンク</a>
       <a href="{{ .Permalink | absURL }}">
         <strong>{{ .Title }}</strong>
       </a>
