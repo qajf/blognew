@@ -61,6 +61,10 @@ li {
     box-sizing: border-box;
 }
 
+.content_box h1 {
+  font-size:25px;
+}
+
 .image_box {
     float: left;
     width: 300px;
