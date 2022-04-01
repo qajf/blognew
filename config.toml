@@ -1,4 +1,4 @@
-baseURL = "https://qajf.github.io/blognew/"
+baseURL = "https://qajf.github.io/blognew"
 title = "QAJF Blog Site"
 theme = "exampleTheme"
 languageCode = "ja"
