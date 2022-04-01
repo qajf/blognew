@@ -2,7 +2,7 @@
 title: "Qajfradio"
 date: 2022-04-01T11:41:24+09:00
 archives : ["2022/04"]
-thumbnail: "/assets/img/file_015.png"
+thumbnail: "/assets/img/qajfradio.png"
 ---
 
 
