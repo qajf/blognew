@@ -24,6 +24,8 @@ thumbnail: "/img/qajfradio.png"
 
 🐸全国どこからでもネットで聴けます↓↓↓ JCBAインターネットサイマルラジオ配信
 
+<a data-hook="linkViewer" href="https://www.jcbasimul.com/?radio=fm%E3%81%86%E3%82%89%E3%82%8" target="_blank" rel="noopener noreferrer noopener" class="_3Bkfb _1lsz7">https://www.jcbasimul.com/?radio=fm%E3%81%86%E3%82%89%E3%82%89</a> 
+
 皆様いつも応援/拡散を有り難うございます。引き続き共に戦っていきましょう!!
 
 
