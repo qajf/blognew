@@ -27,4 +27,4 @@ thumbnail: "/img/qajfradio.png"
 皆様いつも応援/拡散を有り難うございます。引き続き共に戦っていきましょう!!
 
 
-![qajfradio](/img/qajfradio.png)
+![qajfradio](../img/qajfradio.png)
