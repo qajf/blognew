@@ -33,3 +33,4 @@ languageCode = "ja"
 
 paginate = 1
 hasCJKLanguage = true
+staticDir = ["static", "images", "img"]
