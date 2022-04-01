@@ -21,7 +21,7 @@ thumbnail: "/img/qajfradio.png"
 🐸番組表
 
  <a data-hook="linkViewer" href="http://www.fmu.co.jp/bangumibetsu_ka.html" target="_blank" rel="noopener noreferrer noopener" class="_3Bkfb _1lsz7"><u class="_3zM-5">http://www.fmu.co.jp/bangumibetsu_ka.html</u></a> </span>
-<!--more-->
+
 🐸全国どこからでもネットで聴けます↓↓↓ JCBAインターネットサイマルラジオ配信
 
 皆様いつも応援/拡散を有り難うございます。引き続き共に戦っていきましょう!!
