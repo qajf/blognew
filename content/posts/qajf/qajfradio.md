@@ -1,7 +1,7 @@
 ---
-title: "Qajfradio"
-date: 2022-04-01T11:41:24+09:00
-archives : ["2022/04"]
+title: "QAJFラジオ番組が始まります!!"
+date: 2021-03-03T11:41:24+09:00
+archives : ["2021/03"]
 thumbnail: "/img/qajfradio.png"
 ---
 
