@@ -23,4 +23,4 @@ https://t.me/EriAndQmapJapan/459
 
 今すぐTVを捨ててください。'何気なく惰性で' つけっぱなしでみていたTVをやめてみると、ほんとうの世界が見えてきます。TVさえなければ、コロナパンデミック自体が実は ‘存在すらしていなかった’ という衝撃の事実に氣付くことになるでしょう。
 
-<div class="plyr__poster" style="background-image: url(&quot;https://static-3.bitchute.com/live/cover_images/shmVHeJepB6w/IQz5vA57xioX_640x360.jpg&quot;);"></div>
+<div class="plyr__poster" style="background-image: url("https://static-3.bitchute.com/live/cover_images/shmVHeJepB6w/IQz5vA57xioX_640x360.jpg&quot;);"></div>
