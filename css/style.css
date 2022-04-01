@@ -53,12 +53,18 @@ li {
 }
 
 #content li .content_box {
-    border: 1px solid #000;
+
     list-style: none;
     height: 300px;
     padding: 10px;
-    margin-bottom: 50px;
+  
     box-sizing: border-box;
+}
+
+.blog-contents {
+    box-sizing: border-box;
+    border: 1px solid #000;
+    margin-bottom: 50px;
 }
 
 .content_box h1 {
