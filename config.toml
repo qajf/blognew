@@ -2,7 +2,8 @@ baseURL = "https://qajf.github.io/blognew"
 title = "QAJF Blog Site"
 theme = "exampleTheme"
 languageCode = "ja"
-
+hasCJKLanguage = true
+staticDir = ["static", "images", "img"]
 [menu]
   [[menu.main]]
     name = "Home"
