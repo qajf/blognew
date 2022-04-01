@@ -2,7 +2,7 @@
 title: "Qajfradio"
 date: 2022-04-01T11:41:24+09:00
 archives : ["2022/04"]
-thumbnail: "qajfradio.png"
+thumbnail: "/posts/qajf/qajfradio.png"
 ---
 
 
@@ -25,4 +25,4 @@ thumbnail: "qajfradio.png"
 皆様いつも応援/拡散を有り難うございます。引き続き共に戦っていきましょう!!
 
 
-![qajfradio](qajfradio.png)
+![qajfradio](/posts/qajf/qajfradio.png)
