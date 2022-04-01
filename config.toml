@@ -2,6 +2,7 @@ baseURL = "https://qajf.github.io/blognew"
 languageCode = "en-us"
 title = "QAJF Blog Site"
 theme = "exampleTheme"
+languageCode = "ja"
 
 [menu]
   [[menu.main]]
