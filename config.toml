@@ -31,5 +31,4 @@ languageCode = "ja"
 	archive = "archives"
 
 paginate = 1
-hasCJKLanguage = true
-staticDir = ["static", "images", "img"]
+
