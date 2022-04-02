@@ -5,6 +5,10 @@
     overflow: hidden;
 }
 
+.container {
+  max-width:1098px;
+}
+
 .nav-container {
   background-color:#000;
   height: 300px;
@@ -57,7 +61,7 @@ li {
     list-style: none;
     height: 300px;
     padding: 10px;
-  
+
     box-sizing: border-box;
 }
 
@@ -65,6 +69,7 @@ li {
     box-sizing: border-box;
     border: 1px solid #000;
     margin-bottom: 50px;
+    max-width:700px;
 }
 
 .content_box h1 {
@@ -88,14 +93,16 @@ img.rounded-lg.shadow-sm.w-full.h-52.object-cover {
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 980px) {
         #content li .content_box{
           height: auto;
+        }
+
+        .image_box {
+          float:none;
         }
 
         img {
           width:100%;
         }
       }
-
-}
