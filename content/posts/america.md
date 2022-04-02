@@ -11,7 +11,19 @@ tags : [ "Eriさんアーカイブ", "動画" ]
 EriさんのTelegramチャンネル情報を共有させて頂きます。
 https://t.me/EriAndQmapJapan
 
-<iframe width="100%" height="150" name="iframe" src="/blognew/img/file.mp4"></iframe>
+<iframe width="300px" height="150" name="iframe" src="/blognew/img/file.mp4"></iframe>
+
+
+
+aaa
+{{< rawhtml >}}
+
+<video width=300px controls autoplay>
+    <source src="/blognew/img/file.mp4" type="video/webm">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
 
 https://qajf.github.io/blognew/img/file.mp4
 
