@@ -12,7 +12,7 @@ EriさんのTelegramチャンネル情報を共有させて頂きます。
 https://t.me/EriAndQmapJapan
 
 
-<script async src="https://telegram.org/js/telegram-widget.js?18" data-telegram-post="EriAndQmapJapan/870" data-width="100%"></script>
+https://qajf.github.io/blognew/img/file.mp4
 
 今わかりました...西海岸東海岸ともに、貨物船が入港できない理由が。それは、運転手の問題でも港の人員が足りないわけでもありません。”大統領令13959号” のせいなのです。この動画をご覧ください…すべて辻褄が合いますから。
 
