@@ -3,12 +3,13 @@ title: "アメリカ沿岸において船が入港できない状態が続いて
 date: 2021-10-23T09:05:37+09:00
 archives : ["2021/10"]
 tags : [ "Eriさんアーカイブ", "動画" ]
-thumbnail: "/img/file.mp4"
+thumbnail: "/img/video.png"
 ---
 
 アメリカ沿岸において船が入港できない状態が続いている理由
 
 EriさんのTelegramチャンネル情報を共有させて頂きます。
+<!--more-->
 https://t.me/EriAndQmapJapan
 
 <iframe width="300px" height="150" name="iframe" src="/blognew/img/file.mp4"></iframe>
