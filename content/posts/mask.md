@@ -59,4 +59,6 @@ https://t.me/QArmyJapanFlynn
 
 文章印刷して、その場で配ってあげてもいいですね。
 
-![tirasi1](tirasi1.png)
+![tirasi1](../tirasi1.png)
+
+![tirasi1](../tirasi2.png)
