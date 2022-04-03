@@ -65,7 +65,7 @@ TV/新聞/雑誌/書籍など(現在はGoogleやyoutube、Twitter、Facebookな�
 
 <img src="/assets/img/file_012.png">
 
-![file_012](../assets/img/file_012.png)
+![file_012](../file_012.png)
 
 【アノン誕生の背景】
 
