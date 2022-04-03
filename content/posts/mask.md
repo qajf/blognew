@@ -1,5 +1,5 @@
 ---
-title: "Mask"
+title: "マスクを外しましょう"
 date: 2021-10-23T23:09:20+09:00
 tags : [ "Eriさんアーカイブ" ]
 archives : ["2021/10"]
@@ -61,4 +61,4 @@ https://t.me/QArmyJapanFlynn
 
 ![tirasi1](../tirasi1.png)
 
-![tirasi1](../tirasi2.png)
+![tirasi2](../tirasi2.png)
