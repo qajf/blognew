@@ -26,7 +26,7 @@ Q/Q軍が戦う相手は “カバール” とよばれる 世界的家族犯�
 
 <img src="/assets/img/file_002.png" />
 
-![file_002](/blognew/assets/img/file_002.png)
+![file_002](../file_002.png)
 
 マスメディアは、Qが一般市民に知られないために(今まで騙してきたことがバレると一般市民に袋叩きになってしまうから)Qについて言及せず、 “Q/Qアノンが悪だ”という印象を与える誤情報を意図的に流している。(Q 3721 フェィクニュースは、アメリカ立憲共和国が、明らかに現在直面している危機をあらわしている https://qmap.pub/read/3721)
 
@@ -65,7 +65,7 @@ TV/新聞/雑誌/書籍など(現在はGoogleやyoutube、Twitter、Facebookな�
 
 <img src="/assets/img/file_012.png">
 
-![file_012](/blognew/assets/img/file_012.png)
+![file_012](../assets/img/file_012.png)
 
 【アノン誕生の背景】
 
