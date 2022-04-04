@@ -15,6 +15,6 @@ QAJF新作動画のお知らせです。
 
 {{< rawhtml >}}
 
-<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/video/pfRUjZIDBwNX/"></iframe>
+<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/emned/pfRUjZIDBwNX/"></iframe>
 
 {{< /rawhtml >}}
