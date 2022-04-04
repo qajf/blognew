@@ -1,7 +1,6 @@
 ---
 title: "QAJF新作動画のお知らせです。"
 date: 2022-04-04T20:51:42+09:00
-draft: true
 archives : ["2022/04"]
 tags : [ "動画" ]
 archives : ["2021/10"]
