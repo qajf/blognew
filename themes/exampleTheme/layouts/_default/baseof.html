@@ -9,12 +9,22 @@
         {{ block "main" . }}{{ end }}
         </div>
         <div class="col-sm-4">
-          <ul class="side-menu-list">
-            <h3>Archive</h3>
+
+            <h3>最近の投稿</h3>
+              <ul class="side-menu-list">
+          {{ range .Site.RegularPages }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+            <h3>年月別</h3>
+              <ul class="side-menu-list">
     {{ range $items := .Site.Taxonomies.archives.Alphabetical.Reverse }}
         <li><a href="{{ $.Site.BaseURL }}/archives/{{ .Name | urlize | lower }}">{{ .Name }} ({{ .Count }})</a></li>
     {{ end }}
-    <h3>Categories</h3>
+  </ul>
+
+    <h3>カテゴリー</h3>
+    <ul class="side-menu-list">
 {{ range $items := .Site.Taxonomies.categories.Alphabetical.Reverse }}
 <li><a href="{{ $.Site.BaseURL }}/categories/{{ .Name | urlize | lower }}/">{{ .Name }} ({{ .Count }})</a></li>
 {{ end }}
