@@ -21,8 +21,7 @@
                </div>
            <div class="content_box">
             <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-             {{ partial "metadata.html" . }}
-             <div class="date">{{ .Date.Format "2006.01.02 (Mon)" }}</div>
+           {{ partial "metadata.html" . }}
 {{ .Summary }}
 {{ if .Truncated }}
       <!-- This <div> includes a read more link, but only if the summary is truncated... -->
@@ -39,7 +38,7 @@
 
         <div class="content_box">
          <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-         <div class="date">{{ .Date.Format "2006.01.02 (Mon)" }}</div>
+         <!--<div class="date">{{ .Date.Format "2006.01.02 (Mon)" }}</div>-->
 
 <p>{{ .Summary }}</p>
 aaa
