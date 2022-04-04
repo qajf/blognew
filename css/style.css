@@ -97,6 +97,14 @@ img.rounded-lg.shadow-sm.w-full.h-52.object-cover {
     object-fit: cover;
 }
 
+.col-sm-4 h3{
+  background-color: #000;
+  color:#fff;
+  font-size:1em;
+  padding:5px;
+
+}
+
 //* social *//
 
 .social-share {
