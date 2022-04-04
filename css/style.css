@@ -147,6 +147,10 @@ ul.share-icons li > * {
 	border: 0;
 }
 
+.share-icons li {
+  margin-right:5px;
+}
+
 ul.share-icons li > *:before {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
