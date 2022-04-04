@@ -64,10 +64,24 @@ li {
 #content li .content_box {
 
     list-style: none;
-    height: 230px;
+    /* height: 230px; */
     padding: 10px;
 
     box-sizing: border-box;
+}
+
+.blog-contents a {
+    color: #333333;
+    text-decoration:none;
+}
+
+.blog-contents h1:hover {
+    opacity:0.7;
+    text-decoration:solid;
+}
+
+.blog-contents h1 {
+  margin-bottom:10px;
 }
 
 .blog-contents {
