@@ -33,3 +33,10 @@ staticDir = ["static", "images", "img"]
 
 paginate = 1
 
+[Params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  whatsapp = true
+  email = true
+

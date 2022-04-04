@@ -6,6 +6,7 @@
 <br><br>
 <div class="date">{{ .Date.Format "2006.01.02 (Mon)" }}</div>
 {{ .Content }}
+{{ partial "socialshare.html" . }}
 {{ with .PrevInSection }}
          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
        {{ end }}
