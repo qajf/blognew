@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-hcb
+
 <ul>
  {{ range .Site.RegularPages }}
 
@@ -24,7 +24,7 @@ hcb
 
 {{ .Summary }}
 {{ if .Truncated }}
-            <div>
+            <div class="read">
         <a href="{{ .RelPermalink }}">Read More…</a>
       </div>
       {{ end }}
@@ -42,7 +42,7 @@ hcb
 abc
 {{ if .Truncated }}
       <!-- This <div> includes a read more link, but only if the summary is truncated... -->
-      <div>
+      <div class="read">
         <a href="{{ .RelPermalink }}">Read More…</a>
       </div>
       {{ end }}

@@ -24,7 +24,12 @@
              {{ partial "metadata.html" . }}
 
 {{ .Summary }}
-
+{{ if .Truncated }}
+      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+      <div class="read">
+        <a href="{{ .RelPermalink }}">Read More…</a>
+      </div>
+      {{ end }}
 
 
        </div>
@@ -37,10 +42,10 @@
           <div class="date">{{ .Date.Format "2006.01.02 (Mon)" }}</div>
 
 <p>{{ .Summary }}</p>
-ai
+
 {{ if .Truncated }}
       <!-- This <div> includes a read more link, but only if the summary is truncated... -->
-      <div>
+      <div class="read">
         <a href="{{ .RelPermalink }}">Read More…</a>
       </div>
       {{ end }}

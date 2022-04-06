@@ -93,6 +93,10 @@ li {
     padding-top: 20px;
 }
 
+.read :hover {
+  text-decoration: underline;
+}
+
 .content_box h1 {
   font-size:25px;
 }
