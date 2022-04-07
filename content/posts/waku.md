@@ -7,8 +7,6 @@ categories : ["テレグラム"]
 thumbnail: "/img/vaccine.png"
 ---
 
-ワクチンの危険性についてシンプルに説明してある動画
-
 EriさんのTelegramチャンネル情報を共有させて頂きます。
 <!--more-->
 https://t.me/EriAndQmapJapan

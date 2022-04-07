@@ -6,8 +6,6 @@ tags : [ "Eriさんアーカイブ", "動画" ]
 thumbnail: "/img/video.png"
 ---
 
-アメリカ沿岸において船が入港できない状態が続いている理由
-
 EriさんのTelegramチャンネル情報を共有させて頂きます。
 <!--more-->
 https://t.me/EriAndQmapJapan
@@ -16,7 +14,7 @@ https://t.me/EriAndQmapJapan
 
 
 
-aaa
+
 {{< rawhtml >}}
 
 <video width=300px controls autoplay>
