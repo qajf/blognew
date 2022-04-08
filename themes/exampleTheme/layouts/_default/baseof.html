@@ -12,7 +12,8 @@
 
             <h3>最近の投稿</h3>
               <ul class="side-menu-list">
-          {{ range .Site.RegularPages }}
+          {{ range first 5 .Site.RegularPages }}
+           <!--{{ range first 5 .Site.RegularPages.ByLastmod.Reverse }}-->
                 <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
