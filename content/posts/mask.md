@@ -4,6 +4,7 @@ date: 2021-10-23T23:09:20+09:00
 tags : [ "Eriさんアーカイブ" ]
 archives : ["2021/10"]
 socialshare: true
+thumbnail: "/img/tirashi1.png"
 ---
 
 マスクを外しましょう
