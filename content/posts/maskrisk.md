@@ -3,6 +3,7 @@ title: "マスク着用による酸素不足が原因で、呼吸器系の感染
 date: 2021-10-15T23:09:20+09:00
 tags : [ "Eriさんアーカイブ" ]
 archives : ["2021/10"]
+thumbnail: "img/doctor.png"
 socialshare: true
 ---
 
