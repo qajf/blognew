@@ -12,7 +12,7 @@ https://t.me/EriAndQmapJapan/844
 
 {{< rawhtml >}}
 
-<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="/img/maskrisk.mp4"></iframe>
+<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="../maskrisk.mp4"></iframe>
 
 {{< /rawhtml >}}
 
