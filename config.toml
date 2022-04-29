@@ -40,3 +40,6 @@ paginate = 1
   whatsapp = true
   email = true
 
+[Params]
+  images = ["/img/douga1.png"]
+description = "test"
