@@ -3,6 +3,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="/blognew/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/blognew/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
     {{ $title := print .Site.Title " | " .Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
@@ -16,4 +19,19 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
    }
 }
     </script>
+    <head prefix=”og: http://ogp.me/ns#”>
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:type" content="article" />
+{{ if .Summary }}
+<meta property="og:description" content="{{ .Summary }}" />
+{{ else }}
+<meta property="og:description" content="{{ .Site.Params.description }}" />
+{{ end }}
+{{ if .Params.eyecatch }}
+<meta property="og:image" content="{{ .Params.eyecatch | absURL }}" />
+{{ else }}
+<meta property="og:image" content="{{ .Site.Params.image | absURL }}" />
+{{ end }}
 </head>
