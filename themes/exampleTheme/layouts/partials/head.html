@@ -1,6 +1,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
     <link rel="stylesheet" type="text/css" href="/blognew/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/blognew/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
@@ -19,7 +21,6 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
    }
 }
     </script>
-    {{ template "_internal/opengraph.html" . }}
 
 
 </head>
