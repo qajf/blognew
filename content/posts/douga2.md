@@ -6,7 +6,7 @@ tags : [ "動画","Q","QAJF" ]
 archives : ["2022/04"]
 thumbnail: "/img/douga3.png"
 socialshare: true
-
+images: ["/img/douga3.png"]
 ---
 
 Eriさんのコメントを引用させていただきます。
