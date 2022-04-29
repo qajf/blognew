@@ -41,5 +41,5 @@ paginate = 1
   email = true
 
 [Params]
-  images = ["/img/douga1.png"]
-description = "test"
+  images = ["/blognew/img/ogp-image.png"]
+description = "QAJF blogサイトです。"
