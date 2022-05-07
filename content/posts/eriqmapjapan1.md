@@ -11,7 +11,7 @@ socialshare: true
 
 EriさんのTelegramの情報を共有させて頂きます。
 
-https://t.me/EriAndQmapJapan
+https://t.me/EriAndQmapJapan/2461
 
 ![2022](../photo2022-05-06.jpg)
 
