@@ -15,21 +15,21 @@ https://eriqmapjapan.substack.com/p/--869?s=r
 
 バックナンバーはこちら
 
-８：https://eriqmapjapan.substack.com/p/8-ufo?s=r
+８： https://eriqmapjapan.substack.com/p/8-ufo?s=r
 
-７：https://eriqmapjapan.substack.com/p/7-ds?s=r
+７： https://eriqmapjapan.substack.com/p/7-ds?s=r
 
-６：https://eriqmapjapan.substack.com/p/6-?s=r
+６： https://eriqmapjapan.substack.com/p/6-?s=r
 
-５；https://eriqmapjapan.substack.com/p/5-338?s=r
+５； https://eriqmapjapan.substack.com/p/5-338?s=r
 
-４：https://eriqmapjapan.substack.com/p/4-1993-?s=r
+４： https://eriqmapjapan.substack.com/p/4-1993-?s=r
 
-３：https://eriqmapjapan.substack.com/p/3-ufo?s=r
+３： https://eriqmapjapan.substack.com/p/3-ufo?s=r
 
-２：https://eriqmapjapan.substack.com/p/2-woo-?s=r
+２： https://eriqmapjapan.substack.com/p/2-woo-?s=r
 
-１：https://eriqmapjapan.substack.com/p/1-ufo?s=r
+１： https://eriqmapjapan.substack.com/p/1-ufo?s=r
 
 
 
