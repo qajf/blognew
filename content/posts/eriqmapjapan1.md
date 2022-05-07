@@ -3,7 +3,7 @@ title: "Eriさんの情報を共有させて頂きます。"
 date: 2022-05-06T23:10:21+09:00
 tags : [ "Eriさんアーカイブ" ]
 archives : ["2022/05"]
-thumbnail: "/img/photo2022-05-06.png"
+thumbnail: "/img/photo2022-05-06.jpg"
 categories : ["QAJF"]
 socialshare: true
 ---
