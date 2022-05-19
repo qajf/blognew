@@ -6,7 +6,7 @@ archives : ["2022/05"]
 socialshare: true
 thumbnail: "/img/2000mules.png"
 ---
-
+![2000mules](../2000mules.png)
 
 QAJF新作動画の紹介です。
 
