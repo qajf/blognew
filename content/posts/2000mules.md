@@ -41,6 +41,6 @@ https://mediable.jp/videos/watch/4cb875d3-33d3-42fb-a5a5-1c2e24ff7950
 
 {{< rawhtml >}}
 
-<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://mediable.jp/videos/watch/4cb875d3-33d3-42fb-a5a5-1c2e24ff7950"></iframe>
+<iframe width="100%" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://mediable.jp/videos/watch/4cb875d3-33d3-42fb-a5a5-1c2e24ff7950"></iframe>
 
 {{< /rawhtml >}}
