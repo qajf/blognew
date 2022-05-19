@@ -1,6 +1,6 @@
 ---
 title: "QAJF新作動画の紹介です。"
-date: 2022-05-18T23:10:20+09:00
+date: 2022-05-19T22:10:20
 tags : [ "QAJF" ]
 archives : ["2022/05"]
 socialshare: true
