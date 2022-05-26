@@ -1,7 +1,7 @@
 ---
 title: "QAJF新作動画の紹介です。「2000MULES 2000人の運び屋 日本語字幕（19:54〜39:00）」"
 date: 2022-05-18T23:10:20+09:00
-tags : [ "QAJF" ]
+tags : ["動画","QAJF" ]
 archives : ["2022/05"]
 socialshare: true
 thumbnail: "/img/2000mules.png"
