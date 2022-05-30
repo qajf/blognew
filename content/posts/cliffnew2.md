@@ -17,6 +17,7 @@ thumbnail: "/img/catali2.png"
 https://eriqmapjapan.substack.com/p/802?s=w
 
 カタリ派の歴史(後編)
+
 https://eriqmapjapan.substack.com/p/79b?s=w
 
 
