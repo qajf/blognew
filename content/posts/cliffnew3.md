@@ -48,6 +48,10 @@ https://eriqmapjapan.substack.com/p/3?s=w
 
 https://eriqmapjapan.substack.com/p/4240-gan15?s=w
 
+5.「新しい形の生命を創造して、それらを人間と交配させるためのバイオラボであった15の“ガン”のうちの第一号は、中央アメリカに設立されました」
+
+
+https://eriqmapjapan.substack.com/p/515?s=r
 
 
 @EriQmapJapan
