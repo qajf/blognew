@@ -260,7 +260,21 @@ ul.share-icons li > * .label {
 .share-btn.reddit:hover      { background: #e54e00; }
 .share-btn.email:hover       { background: #363636; }
 
+.nav-container h1 {
 
+  font-family: 'Alata', sans-serif;
+  font-size: 28px;
+    font-weight: 600;
+
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container h1 a {
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+}
 
 
 @media screen and (max-width: 980px) {
