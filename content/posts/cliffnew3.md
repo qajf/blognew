@@ -53,15 +53,13 @@ https://eriqmapjapan.substack.com/p/4240-gan15?s=w
 
 https://eriqmapjapan.substack.com/p/515?s=r
 
-6.
-
-https://eriqmapjapan.substack.com/p/6--556?s=w
+６. https://eriqmapjapan.substack.com/p/6--556?s=w
 
 7.そろそろ「光」についての話に入っていきます。🍿🐸✨
 
 https://eriqmapjapan.substack.com/p/7?s=w
 
-
+８. https://eriqmapjapan.substack.com/p/8-?s=w
 
 
 @EriQmapJapan
