@@ -61,6 +61,10 @@ https://eriqmapjapan.substack.com/p/7?s=w
 
 ８. https://eriqmapjapan.substack.com/p/8-?s=w
 
+９. 人間は本当に「光」の存在だそうです。✨🍿🐸   
+
+https://eriqmapjapan.substack.com/p/9101010?s=w
+
 
 @EriQmapJapan
 
