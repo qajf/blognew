@@ -65,6 +65,10 @@ https://eriqmapjapan.substack.com/p/7?s=w
 
 https://eriqmapjapan.substack.com/p/9101010?s=w
 
+１０.
+ このようにして、ちゃんと科学や物理を研究している人たちの解説を聞くと、今、頭の悪い詐欺師たちが「ある！」と主張しているメドベッドはあくまでも空想であり、その画像と称するものはフォトショップであるとしか考えられませんね。💩🤔   
+
+ https://eriqmapjapan.substack.com/p/10--aab?s=w
 
 @EriQmapJapan
 
