@@ -3,6 +3,7 @@ title = "QAJF Blog Site"
 theme = "exampleTheme"
 languageCode = "ja"
 googleAnalytics = 'G-4NCXYPH07D'
+googleAnalytics = "UA-230668078-1"
 hasCJKLanguage = true
 staticDir = ["static", "images", "img"]
 [menu]
