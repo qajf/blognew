@@ -1,6 +1,6 @@
 ---
 title: "EriさんのSubstackの紹介です。「メドベッドとカタリ派 」"
-date: 2022-06-04T23:10:20+09:00
+date: 2022-05-30T23:10:20+09:00
 tags : [ "QAJF" ]
 archives : ["2022/05"]
 socialshare: true
@@ -50,7 +50,6 @@ https://eriqmapjapan.substack.com/p/4240-gan15?s=w
 
 5.「新しい形の生命を創造して、それらを人間と交配させるためのバイオラボであった15の“ガン”のうちの第一号は、中央アメリカに設立されました」
 
-
 https://eriqmapjapan.substack.com/p/515?s=r
 
 ６. https://eriqmapjapan.substack.com/p/6--556?s=w
@@ -61,19 +60,18 @@ https://eriqmapjapan.substack.com/p/7?s=w
 
 ８. https://eriqmapjapan.substack.com/p/8-?s=w
 
-９. 人間は本当に「光」の存在だそうです。✨🍿🐸   
+９．人間は本当に「光」の存在だそうです。✨🍿🐸   
 
 https://eriqmapjapan.substack.com/p/9101010?s=w
 
-１０.
- このようにして、ちゃんと科学や物理を研究している人たちの解説を聞くと、今、頭の悪い詐欺師たちが「ある！」と主張しているメドベッドはあくまでも空想であり、その画像と称するものはフォトショップであるとしか考えられませんね。💩🤔   
+１０．このようにして、ちゃんと科学や物理を研究している人たちの解説を聞くと、今、頭の悪い詐欺師たちが「ある！」と主張しているメドベッドはあくまでも空想であり、その画像と称するものはフォトショップであるとしか考えられませんね。💩🤔   
 
- https://eriqmapjapan.substack.com/p/10--aab?s=w
+https://eriqmapjapan.substack.com/p/10--aab?s=w
 
- １１． https://eriqmapjapan.substack.com/p/11-?s=w
+１１．
+ https://eriqmapjapan.substack.com/p/11-?s=w
 
  １２．
-
  タイトル以外にも、たくさんWooの詰まったパートになっています。
 
 「エローヒムは巨大な泡 (バイオバブル) を持ち、それは、地球の広い範囲を覆っていました。この泡が時間を歪め、人々は1000歳まで生きることができたのです。今の人間の体でも、その泡の中では1000歳まで生きられます。なぜかというとそれは、エローヒムがその泡の中に身を置くことで、彼のエネルギーが体内光のコヒーレンシー(光波長干渉度)に影響を及ぼしていたからです…..これは、カタリ派なら知っていたことです」
@@ -82,6 +80,9 @@ https://eriqmapjapan.substack.com/p/9101010?s=w
 これだけじゃない…おもしろすぎる、クリフ・ハイ。🍿😂😨😱❤️🙏🏼
 
 https://eriqmapjapan.substack.com/p/12-cc?s=w
+
+
+
 
 @EriQmapJapan
 
