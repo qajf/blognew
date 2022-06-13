@@ -44,3 +44,6 @@ paginate = 1
 [Params]
   images = ["/blognew/img/ogp-image.png"]
 description = "QAJF blogサイトです。"
+[markup.goldmark.renderer]
+
+unsafe = true
