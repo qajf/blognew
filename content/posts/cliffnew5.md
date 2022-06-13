@@ -1,8 +1,8 @@
 ---
 title: "EriさんのSubstackの紹介です。「メドベッドとカタリ派 」"
-date: 2022-05-30T23:10:20+09:00
+date: 2022-06-12T23:10:20+09:00
 tags : [ "QAJF" ]
-archives : ["2022/05"]
+archives : ["2022/06"]
 socialshare: true
 thumbnail: "/img/catali3.jpg"
 
@@ -87,6 +87,10 @@ https://eriqmapjapan.substack.com/p/12-cc?s=w
 
 https://eriqmapjapan.substack.com/p/13-?s=w
 
+１４．
+磁氣に関する特許などを持っている多才なクリフ・ハイ氏は、メドベッドも開発していらっしゃるのですね。😳   
+
+https://eriqmapjapan.substack.com/p/14--04f?s=w
 
 @EriQmapJapan
 
