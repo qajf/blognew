@@ -17,7 +17,7 @@ https://eriqmapjapan.substack.com/p/146?s=w
 (随時アップデートいたします。)
 
 
-<span style="border:1px solid;"></span>
+<span style="border-bottom:1px solid #000;"></span>
 
 
 2.カタリ派が、例えば "天皇"のような "その存在や恫喝行為だけで飯食ってる穀潰し"を心底軽蔑していたことなどが判明しています...これって、わたしらと同じマインドよね? 🤔
@@ -91,6 +91,11 @@ https://eriqmapjapan.substack.com/p/13-?s=w
 磁氣に関する特許などを持っている多才なクリフ・ハイ氏は、メドベッドも開発していらっしゃるのですね。😳   
 
 https://eriqmapjapan.substack.com/p/14--04f?s=w
+
+１５．
+不動産不況についてです。次回で最終回です。🍿❤️   
+
+https://eriqmapjapan.substack.com/p/15-2512100?s=w
 
 @EriQmapJapan
 
