@@ -1,6 +1,6 @@
 ---
 title: "EriさんのSubstackの紹介です。「メドベッドとカタリ派 」"
-date: 2022-06-12T23:10:20+09:00
+date: 2022-06-19T23:10:20+09:00
 tags : [ "QAJF" ]
 archives : ["2022/06"]
 socialshare: true
@@ -96,6 +96,10 @@ https://eriqmapjapan.substack.com/p/14--04f?s=w
 不動産不況についてです。次回で最終回です。🍿❤️   
 
 https://eriqmapjapan.substack.com/p/15-2512100?s=w
+
+１６. 最終回 16 公開しました。🍿❤️  
+
+https://eriqmapjapan.substack.com/p/16-
 
 @EriQmapJapan
 
