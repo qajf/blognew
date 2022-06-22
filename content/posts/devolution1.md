@@ -4,6 +4,7 @@ date: 2022-06-02T23:10:20+09:00
 tags : [ "QAJF","動画" ]
 archives : ["2022/06"]
 socialshare: true
+categories : ["動画"]
 thumbnail: "/img/devolution.png"
 
 

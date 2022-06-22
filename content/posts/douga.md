@@ -6,6 +6,7 @@ tags : [ "動画" ]
 archives : ["2022/04"]
 thumbnail: "/img/douga1.png"
 socialshare: true
+categories : ["動画"]
 
 ---
 

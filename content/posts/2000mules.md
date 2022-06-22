@@ -3,6 +3,7 @@ title: "QAJF新作動画の紹介です。「2000MULES 2000人の運び屋 日�
 date: 2022-05-18T23:10:20+09:00
 tags : ["動画","QAJF" ]
 archives : ["2022/05"]
+categories : ["動画"]
 socialshare: true
 thumbnail: "/img/2000mules.png"
 ---

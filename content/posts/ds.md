@@ -4,6 +4,7 @@ date: 2022-05-24T23:10:20+09:00
 tags : [ "動画","QAJF" ]
 archives : ["2022/05"]
 socialshare: true
+categories : ["動画"]
 thumbnail: "/img/ds1.png"
 
 

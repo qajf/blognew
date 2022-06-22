@@ -6,6 +6,7 @@ tags : [ "動画","Q","QAJF" ]
 archives : ["2022/04"]
 thumbnail: "/img/douga2.png"
 socialshare: true
+categories : ["動画"]
 
 ---
 

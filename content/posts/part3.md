@@ -3,6 +3,7 @@ title: "QAJF新作動画の紹介です。「2022/1/11 コンスピラシー・�
 date: 2022-06-09T23:10:20+09:00
 tags : ["動画","QAJF" ]
 archives : ["2022/06"]
+categories : ["動画"]
 socialshare: true
 thumbnail: "/img/part3.png"
 ---
