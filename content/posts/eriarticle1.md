@@ -9,6 +9,8 @@ socialshare: true
 
 EriQmapJapan️️ Telegramチャンネルの情報を共有させて頂きます。
 
+<a href="https://t.me/EriAndQmapJapan">https://t.me/EriAndQmapJapan</a>
+
 -多分本当にこの界隈は金もらってると思います。普通こんなに人って報酬なしで頑張らないと思うんですよ。-
 
 
