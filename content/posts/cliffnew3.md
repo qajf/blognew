@@ -20,11 +20,17 @@ https://eriqmapjapan.substack.com/
 
 <h4>「クリフ・ハイのフラックス・ウー(2021/10/8)〜学校もTVも誰も教えてくれなかった 中国共産党の “世界征服計画”について学ぶ〜」</h4>
 
-1.
+https://www.bitchute.com/video/6UoprWnLdauS/
 
+
+１.
 https://eriqmapjapan.substack.com/p/1
 
-https://www.bitchute.com/video/6UoprWnLdauS/
+２.
+https://eriqmapjapan.substack.com/p/2-1958-
+
+３.
+https://eriqmapjapan.substack.com/p/3-100pr1968ds
 
 <span style="color:#ff0000;">軍事/宇宙/物理/科学/医学/宗教/食/環境/武術などなど…なんでもめちゃくちゃ詳しいクリフ・ハイ氏が、今回は中国と世界の歴史、その他について解説してくださいます。</span>🍿☺️
 
