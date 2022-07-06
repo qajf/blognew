@@ -32,6 +32,14 @@ https://eriqmapjapan.substack.com/p/2-1958-
 ３.
 https://eriqmapjapan.substack.com/p/3-100pr1968ds
 
+４.
+"人としておかしい"CCPは、1990年代に「アメリカ人2億人を殺す方法」などを書いた、きもちわるい本を出版していました...💩🤔  
+https://eriqmapjapan.substack.com/p/4-unrestricted-warfare40
+
+５.
+地球を漢民族だらけにしたい💩🇨🇳のお話です。😨    
+https://eriqmapjapan.substack.com/p/5-ccp-
+
 <span style="color:#ff0000;">軍事/宇宙/物理/科学/医学/宗教/食/環境/武術などなど…なんでもめちゃくちゃ詳しいクリフ・ハイ氏が、今回は中国と世界の歴史、その他について解説してくださいます。</span>🍿☺️
 
 ![1959年のおもな歴史](../1959history1.jpg)
