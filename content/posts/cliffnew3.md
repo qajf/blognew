@@ -1,6 +1,6 @@
 ---
-title: "EriさんのSubstackの紹介です。"
-date: 2022-06-30T23:10:20+09:00
+title: "EriさんのSubstackの紹介です。最新記事は10です。"
+date: 2022-07-15T23:10:20+09:00
 tags : [ "QAJF","substack" ]
 archives : ["2022/05"]
 socialshare: true
@@ -39,6 +39,23 @@ https://eriqmapjapan.substack.com/p/4-unrestricted-warfare40
 ５.
 地球を漢民族だらけにしたい💩🇨🇳のお話です。😨    
 https://eriqmapjapan.substack.com/p/5-ccp-
+
+６．
+https://eriqmapjapan.substack.com/p/6--74f
+
+７．
+https://eriqmapjapan.substack.com/p/7-494
+
+８．
+https://eriqmapjapan.substack.com/p/8--31c
+
+９．
+SOC(自己組織集団)とは、JFKがFRBをアメリカに取り戻そうとしている時に、JFKと一緒に動いていた人たちのことで、彼らが人類の意識をコントロールするために作り出したのが「Q」です...おそらくw  
+https://eriqmapjapan.substack.com/p/91963soc20082004ccp2016
+
+１０．
+今回も、表のニュースではわからない裏の事情について推測できる、興味深い内容になっています。”タリバンに850億ドルもの武器が渡った”という話…日本も高額の戦闘機を買わされたりなどありましたが、一見しただけではわからない裏の事情もありそうですね…🤔🍿
+https://eriqmapjapan.substack.com/p/10socccp-50100
 
 <span style="color:#ff0000;">軍事/宇宙/物理/科学/医学/宗教/食/環境/武術などなど…なんでもめちゃくちゃ詳しいクリフ・ハイ氏が、今回は中国と世界の歴史、その他について解説してくださいます。</span>🍿☺️
 
