@@ -1,7 +1,7 @@
 ---
 title: "EriさんのSubstackの紹介です。「カタリ派の歴史(予告編)」"
 date: 2022-05-27T23:10:20+09:00
-tags : [ "QAJF" ]
+tags : [ "QAJF","substack" ]
 archives : ["2022/05"]
 socialshare: true
 thumbnail: "/img/catali.png"

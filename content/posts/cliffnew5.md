@@ -1,7 +1,7 @@
 ---
 title: "EriさんのSubstackの紹介です。「メドベッドとカタリ派 」"
 date: 2022-06-19T23:10:20+09:00
-tags : [ "QAJF" ]
+tags : [ "QAJF","substack" ]
 archives : ["2022/06"]
 socialshare: true
 thumbnail: "/img/catali3.jpg"
