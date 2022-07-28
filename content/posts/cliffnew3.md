@@ -1,5 +1,5 @@
 ---
-title: "EriさんのSubstackの紹介です。最新記事は13です。"
+title: "EriさんのSubstackの紹介です。最終回です。"
 date: 2022-07-18T23:10:20+09:00
 tags : [ "QAJF","substack" ]
 archives : ["2022/05"]
@@ -78,6 +78,10 @@ https://eriqmapjapan.substack.com/p/12socccp
 「そのウイルスが強いか弱いかではなく、人間側が強いか弱いかが問題である」という考え方…その鍵を握るのが #ビタミンD です。🤔🍿
 
 https://eriqmapjapan.substack.com/p/13d
+
+14.最終回をUPしました！🍿🐸  今次々と辞任している大企業の役員(ペドフィリア)の資産を没収する事で、人類が豊かになるのですね。🤔
+
+https://eriqmapjapan.substack.com/p/141947
 
 ![1959年のおもな歴史](../1959history1.jpg)
 
